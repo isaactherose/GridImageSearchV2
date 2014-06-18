@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.GridView;
 import android.widget.Toast;
-//test comment
+//test 1
 
 public class SearchActivity extends ActionBarActivity {
 
